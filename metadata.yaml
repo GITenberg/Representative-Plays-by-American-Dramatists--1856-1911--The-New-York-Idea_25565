@@ -1,0 +1,34 @@
+_repo: Representative-Plays-by-American-Dramatists--1856-1911--The-New-York-Idea_25565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, Langdon Elwyn
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '31426'
+    url: http://www.gutenberg.org/2009/agents/31426
+    wikipedia: http://en.wikipedia.org/wiki/Langdon_Elwyn_Mitchell
+  editor:
+    agent_name: Moses, Montrose Jonas
+    alias: Moses, Montrose J.
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '4192'
+    url: http://www.gutenberg.org/2009/agents/4192
+description: ''
+gutenberg_issued: '2008-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama'
+- !lcc 'PS'
+title: 'Representative Plays by American Dramatists: 1856-1911: The New York Idea'
+url: http://www.gutenberg.org/ebooks/25565
